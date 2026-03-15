@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pio/
+build/
+dist/
+*.elf
+*.bin
+*.map
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+neural_models/exported/
+neural_models/quantized/
+neural_models/datasets/cache/
