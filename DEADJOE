@@ -1,0 +1,178 @@
+
+*** Modified files in JOE when it aborted on Sat Mar 14 23:32:18 2026
+*** JOE was aborted by signal 1
+
+*** File '/home/ron/AI_Guitar_Pedal/.git/COMMIT_EDITMSG'
+Initial project structure
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: ron <ron@thinkpadp1.local>
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .gitignore~
+#	new file:   LICENSE
+#	new file:   README.md
+#	new file:   documentation/README.md
+#	new file:   dsp_experiments/README.md
+#	new file:   firmware/README.md
+#	new file:   firmware/platformio.ini
+#	new file:   hardware/README.md
+#	new file:   neural_models/README.md
+#	new file:   test_recordings/README.md
+#	new file:   tools/README.md
+#
+
+*** These modified files were found in JOE when it aborted on Sat Mar 14 23:32:18 2026
+*** JOE was aborted by UNIX signal 15
+
+*** File '* Shell 3 *'
+
+Type joehelp for editor shell commands
+
+[1m[36m23:25[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% [mls
+[1m[34mdocumentation[m  [1m[34mdsp_experiments[m  [1m[34mfirmware[m  [1m[34mhardware[m  LICENSE  [1m[34mneural_models[m  README.md  [1m[34mtest_recordings[m  [1m[34mtools
+[1m[36m23:29[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% [mless .gitignore
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pio/
+build/
+dist/
+*.elf
+*.bin
+*.map
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+neural_models/exported/
+neural_models/quantized/
+neural_models/datasets/cache/
+[1m[36m23:29[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% 
+*** File '* Shell 2 *'
+
+Type joehelp for editor shell commands
+
+[1m[36m23:27[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% 
+*** File '* Shell 1 *'
+
+Type joehelp for editor shell commands
+
+[1m[36m23:27[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% [mexit
+. /etc/joe/shell.sh
+[1m[36m23:27[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% [m. /etc/joe/shell.sh
+
+Type joehelp for editor shell commands
+
+[1m[36m23:28[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% 
+*** File '(Unnamed)'
+chpt2notes
+chpt2notes
+.gitignore
+* Startup Log *
+* Shell 1 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 3 *
+* Startup Log *
+* Shell 1 *
+* Startup Log *
+* Shell 1 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 1 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 1 *
+* Startup Log *
+* Shell 1 *
+* Startup Log *
+* Shell 1 *
+* Startup Log *
+* Shell 1 *
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jstarrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jstarrc
+
+*** These modified files were found in JOE when it aborted on Sat Mar 14 23:32:18 2026
+*** JOE was aborted by UNIX signal 15
+
+*** File '* Shell 2 *'
+
+Type joehelp for editor shell commands
+
+[1m[36m23:25[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% 
+*** File '* Shell 1 *'
+
+Type joehelp for editor shell commands
+
+[1m[36m23:25[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1m[33m% [mjoehelp
+clear         - erase buffer
+joe           - edit file
+math 1+2      - calculator
+pop           - dismiss shell
+parse [cmd]   - grep parse command
+parserr [cmd] - compile parse command
+release       - drop parsed messages
+markb         - mark beginning of region
+markk         - mark end of region
+mark cmd      - mark output of command
+[1m[36m23:25[32m [37mron[35m@[37mthinkpadp1 [32m/home/ron/AI_Guitar_Pedal
+[1
+*** File '.gitignore'
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pio/
+build/
+dist/
+*.elf
+*.bin
+*.map
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+neural_models/exported/
+neural_models/quantized/
+neural_models/datasets/cache/
+*** File '(Unnamed)'
+chpt2notes
+chpt2notes
+.gitignore
+* Startup Log *
+* Shell 1 *
+* Startup Log *
+* Shell 2 *
+* Startup Log *
+* Shell 3 *
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jstarrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jstarrc
