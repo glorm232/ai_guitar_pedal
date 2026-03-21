@@ -1,0 +1,3 @@
+I'm deciding on which route I want to take for the hardware path; I chose the ESP32-S3 R8N16 for the following two reasons. First is I have three lying around and second the device has two pram and ram built in and handles Digital audio with low latency and thus is decent for digital audio interfacing, sadly it doesn't have built in DAC like the original ESP32. I do have a I2S PCM5102 stereo DAC module, which I'll be using to handle digital audio from the ESP32-S3 and output analog audio.
+as for I2S  is a digital audio bus used to send PCM(Pulse Code Modulation)audio between chips. The PCM5102/PCM5102A supports standard I2S and also left-justified audio formats. TI’s datasheets for the PCM5102 and PCM5102A list the supported
+PCM data formats as I2S and left-justified.
